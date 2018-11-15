@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hi this is my first devop project!</h1>
+        <h1>my first devop project</h1>
     </body>
 </html>
